@@ -5,6 +5,7 @@ INTERN ID : CT08QSU
 DOMAIN : C++ PROGRAMMING 
 DURATION : 4 WEEKS 
 MENTOR : NEELA SANTHOSH
+
 DESCRIPTION;
 Features of the Game:
 
@@ -26,4 +27,4 @@ Key Concepts Used:
 * User Input Handling: Uses kbhit() and _getch() from <conio.h> to detect keypresses.
   
 * File Handling (Optional): Can store high scores in a file.
-  OUTPUT :
+  OUTPUT : https://github.com/user-attachments/assets/0568e6cf-0a04-491d-aa23-957bc41a1ee9
